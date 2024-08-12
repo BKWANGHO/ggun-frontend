@@ -1,0 +1,33 @@
+export const StockRankingDummy = [
+    {id:1, stock:'삼성전자', now:7400, volume: 420000, total: '5조천억', imgSrc:`/stockLogo/samsung.jpg`},
+    {id:2, stock:'LG전자', now:7400, volume: 420000, total: '4조천억', imgSrc:`/stockLogo/lg.jpg`},
+    {id:3, stock:'SK하이닉스', now:7400, volume: 420000, total: '3조천억', imgSrc:`/stockLogo/sk.jpg`},
+    {id:4, stock:'DB하이텍', now:7400, volume: 420000, total: '2조천억', imgSrc:`/stockLogo/db.jpg`},
+    {id:5, stock:'네페스', now:7400, volume: 420000, total: '3조천억', imgSrc:`/stockLogo/nepes.jpg`},
+    {id:6, stock:'후성', now:7400, volume: 420000, total: '1조천억', imgSrc:`/stockLogo/foosung.jpg`},
+    {id:7, stock:'원익피앤이', now:7400, volume: 420000, total: '1조천억', imgSrc:`/stockLogo/wonik.jpg`},
+    {id:8, stock:'LS일렉트릭', now:7400, volume: 420000, total: '1조천억', imgSrc:`/stockLogo/lsElec.jpg`},
+    {id:9, stock:'SK시그넷', now:7400, volume: 420000, total: '1조천억', imgSrc:`/stockLogo/sk.jpg`},
+    {id:10, stock:'모트렉스', now:7400, volume: 420000, total: '1조천억', imgSrc:`/stockLogo/motrex.jpg`},
+    {id:11, stock:'신세계I&C', now:7400, volume: 420000, total: '1조천억', imgSrc:`/stockLogo/ssg.jpg`},
+    {id:12, stock:'프로텍', now:6400, volume: 420000, total: '1조천억', imgSrc:`/stockLogo/protec.jpg`},
+]
+
+export const stockInfoDummy =[
+    {id:1, title:'전일', data:'16,000', color:''},
+    {id:2, title:'시가', data:'16,170', color:'text-red-400'},
+    {id:3, title:'고가', data:'16,680', color:'text-red-400'},
+    {id:4, title:'저가', data:'15,820', color:'text-blue-400'},
+    {id:5, title:'거래량', data:'11,440,528', color:'t'},
+    {id:6, title:'대금', data:'189,787백만', color:''},
+    {id:7, title:'시총', data:'3조 1,360억', color:''},
+    {id:8, title:'외인소진율', data:'6.93%', color:''},
+    {id:9, title:'PER', data:'28.61', color:''},
+    {id:10, title:'EPS', data:'588원', color:''},
+    {id:11, title:'추정PER', data:'', color:''},
+    {id:12, title:'추정EPS', data:'', color:''},
+    {id:13, title:'PBR', data:'2.19', color:''},
+    {id:14, title:'BPS', data:'7,669원', color:''},
+    {id:15, title:'배당수익률', data:'', color:''},
+    {id:16, title:'주당배당금', data:'', color:''},
+]
